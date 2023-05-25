@@ -12,4 +12,8 @@ Comme j'avais envi d'apprendre le langage Python j'ai décidé de créer mon pro
       - Au minimum Format MP3
   - Gratuit
     - Si un jour je partage, Je souhaite que cette application reste gratuite
-                      mai 2023
+
+Pour facilité le développement, je vais utiliser la library kivy https://kivy.org/
+
+
+mai 2023
